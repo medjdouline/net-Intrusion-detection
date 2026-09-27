@@ -7,5 +7,5 @@ Analyse par apprentissage automatique (Machine Learning) sur le dataset NSL-KDD 
 - `KDDTrain+_2.csv` / `KDDTest+_2.csv` — jeux de données d'entraînement et de test (NSL-KDD)
 
 ## Technologies
-- Langage : Python (Jupyter Notebook)
+- Langage : Python 
 - Bibliothèques : scikit-learn, pandas
